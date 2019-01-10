@@ -2,7 +2,7 @@
 
 <br/>
 
-### 해당 코드 실행 방법
+### 실행 방법
 
 `$ git clone https://github.com/django-study-1st/django-girls-tutorial` : 코드 다운로드 받기
 

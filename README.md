@@ -8,7 +8,7 @@
 
 `$ cd django-girls-tutorial/Django-Girls-Tutorial` : Django-Girls-Tutorial 폴더 안으로 이동하기
 
-> `$ ls` 명령어를 실행했을 때, blog, djangogirls, requirements.txt 등의 파일이 보여야합니다. 만약 보이지 않는다면 cd를 이용해서 해당 폴더 안으로 이동하시면 됩니다.
+> `$ ls` 명령어를 실행했을 때, (window는 `$ dir`) blog, djangogirls, requirements.txt 등의 파일이 보여야합니다. 만약 보이지 않는다면 cd를 이용해서 해당 폴더 안으로 이동하시면 됩니다.
 
 `$ python3 -m venv 가상환경이름` : 가상환경 생성하기
 

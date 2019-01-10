@@ -6,7 +6,7 @@
 
 `$ git clone https://github.com/django-study-1st/django-girls-tutorial` : 코드 다운로드 받기
 
-`$ cd Django-Girls-Tutorial` : Django-Girls-Tutorial 폴더 안으로 이동하기
+`$ cd django-girls-tutorial/Django-Girls-Tutorial` : Django-Girls-Tutorial 폴더 안으로 이동하기
 
 > `$ ls` 명령어를 실행했을 때, blog, djangogirls, requirements.txt 등의 파일이 보여야합니다. 만약 보이지 않는다면 cd를 이용해서 해당 폴더 안으로 이동하시면 됩니다.
 

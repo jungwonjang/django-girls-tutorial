@@ -1,5 +1,7 @@
 2번째 시간에 진행했던 django girls tutorial live coding의 코드를 공유해드립니다.
 
+<br/>
+
 ### 해당 코드 실행 방법
 
 `$ git clone https://github.com/django-study-1st/django-girls-tutorial` : 코드 다운로드 받기

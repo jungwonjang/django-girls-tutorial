@@ -2,7 +2,7 @@
 
 `$ git clone https://github.com/django-study-1st/django-girls-tutorial` : 코드 다운로드 받기
 
-`$ cd Django-Girls-Tutorial` : Django-Girls-Tutorial 폴더로 이동하기
+`$ cd Django-Girls-Tutorial` : Django-Girls-Tutorial 폴더 안으로 이동하기
 
 `$ python3 -m venv 가상환경이름` : 가상환경 생성하기
 

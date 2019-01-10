@@ -4,7 +4,7 @@
 
 `$ cd Django-Girls-Tutorial` : Django-Girls-Tutorial 폴더로 이동하기
 
-`$ python -m venv 가상환경이름` : 가상환경 생성하기
+`$ python3 -m venv 가상환경이름` : 가상환경 생성하기
 
 `$ source 가상환경이름/bin/activate` : 가상환경 실행하기
 
